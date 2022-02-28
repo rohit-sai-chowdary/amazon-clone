@@ -30,7 +30,7 @@ function Subtotal() {
       />
 
       <button onClick={(e) => navigate('/payment')}>
-        Proceed to Checkout!
+        Proceed to Checkout!!!
       </button>
     </div>
   );
